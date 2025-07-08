@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kokushin-exia-mcp-badge.png)](https://mseep.ai/app/kokushin-exia-mcp)
+
 # exia-scenario-generator MCP Server
 
 [exia](https://github.com/kokushin/exia) というノベルゲームエンジン向けのシナリオファイルを作成する MCP サーバです。  
